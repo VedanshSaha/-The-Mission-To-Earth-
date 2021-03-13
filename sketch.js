@@ -53,7 +53,7 @@ function preload() {
 
   int = loadSound("Intro Theme.mp3");
 
-  bite = loadSound("bite.mp3");
+  bite = loadSound("Bite.mp3");
 
   bulletImg = loadImage("bullet.png");
 
